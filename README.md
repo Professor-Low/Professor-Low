@@ -29,7 +29,6 @@ Core platform:
 Apps and extensions:
 
 - `Cerebro Desktop` – the full platform on web, desktop and mobile
-- [`Cerebro Share`](https://share.cerebro.life) – publish web apps to a shareable link
 - `Cerebro Glasses` – Cerebro on Even Realities G2 smart glasses
 - [`Marketplace`](https://cerebro.life/market) – community capability packs, MCP servers and agents *(coming soon)*
 - [`Cerebro Installer`](https://github.com/Professor-Low/Cerebro-Installer) – one-command setup
